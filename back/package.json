@@ -1,0 +1,16 @@
+{
+  "name": "socialog-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^1.7.0",
+    "puppeteer": "^1.20.0",
+    "sequelize": "^5.19.6"
+  }
+}
